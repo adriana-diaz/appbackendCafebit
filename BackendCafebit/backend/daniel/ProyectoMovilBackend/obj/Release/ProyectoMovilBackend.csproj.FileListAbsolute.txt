@@ -1,0 +1,7 @@
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\bin\Release\ProyectoMovilBackend.dll.config
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\bin\Release\ProyectoMovilBackend.dll
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\bin\Release\ProyectoMovilBackend.pdb
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\obj\Release\ProyectoMovilBackend.csproj.AssemblyReference.cache
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\obj\Release\ProyectoMovilBackend.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\obj\Release\ProyectoMovilBackend.dll
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\obj\Release\ProyectoMovilBackend.pdb

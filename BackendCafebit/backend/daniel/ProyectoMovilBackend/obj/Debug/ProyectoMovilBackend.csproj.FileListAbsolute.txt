@@ -1,0 +1,14 @@
+C:\Users\adria\progra movil\ProyectoMovilBackend\bin\Debug\ProyectoMovilBackend.dll.config
+C:\Users\adria\progra movil\ProyectoMovilBackend\bin\Debug\ProyectoMovilBackend.dll
+C:\Users\adria\progra movil\ProyectoMovilBackend\bin\Debug\ProyectoMovilBackend.pdb
+C:\Users\adria\progra movil\ProyectoMovilBackend\obj\Debug\ProyectoMovilBackend.csproj.AssemblyReference.cache
+C:\Users\adria\progra movil\ProyectoMovilBackend\obj\Debug\ProyectoMovilBackend.csproj.CoreCompileInputs.cache
+C:\Users\adria\progra movil\ProyectoMovilBackend\obj\Debug\ProyectoMovilBackend.dll
+C:\Users\adria\progra movil\ProyectoMovilBackend\obj\Debug\ProyectoMovilBackend.pdb
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\bin\Debug\ProyectoMovilBackend.dll.config
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\bin\Debug\ProyectoMovilBackend.dll
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\bin\Debug\ProyectoMovilBackend.pdb
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\obj\Debug\ProyectoMovilBackend.csproj.AssemblyReference.cache
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\obj\Debug\ProyectoMovilBackend.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\obj\Debug\ProyectoMovilBackend.dll
+C:\Users\Daniel\Downloads\daniel\daniel\ProyectoMovilBackend\obj\Debug\ProyectoMovilBackend.pdb

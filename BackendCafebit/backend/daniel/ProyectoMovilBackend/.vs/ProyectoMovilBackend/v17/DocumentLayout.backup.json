@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|c:\\users\\daniel\\downloads\\daniel\\daniel\\proyectomovilbackend\\modelos\\entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|solutionrelative:modelos\\entidades\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|c:\\users\\daniel\\downloads\\daniel\\daniel\\proyectomovilbackend\\logica\\logproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|solutionrelative:logica\\logproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|c:\\users\\daniel\\downloads\\daniel\\daniel\\proyectomovilbackend\\modelos\\entidades\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|solutionrelative:modelos\\entidades\\carrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|c:\\users\\daniel\\downloads\\daniel\\daniel\\proyectomovilbackend\\modelos\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|solutionrelative:modelos\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|c:\\users\\daniel\\downloads\\daniel\\daniel\\proyectomovilbackend\\modelos\\response\\reslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|solutionrelative:modelos\\response\\reslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\accesodatos\\conexionlinq.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|solutionrelative:accesodatos\\conexionlinq.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\modelos\\request\\reqconsultafactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|solutionrelative:modelos\\request\\reqconsultafactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88375AC8-AE28-477D-8878-81208A59138D}|..\\ApiRestMovil\\ApiRestMovil.csproj|c:\\users\\daniel\\downloads\\daniel\\daniel\\apirestmovil\\controllers\\proyectomovilcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\modelos\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D9B819-79E8-4C3B-828F-85406B821159}|ProyectoMovilBackend.csproj|solutionrelative:modelos\\entidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Carrito.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Modelos\\Entidades\\Carrito.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Carrito.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Modelos\\Entidades\\Carrito.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Carrito.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:55:10.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Modelos\\Entidades\\Factura.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Factura.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Modelos\\Entidades\\Factura.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:35:22.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Modelos\\Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Modelos\\Entidades\\Producto.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Producto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:33:02.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Modelos\\Response\\ResLogin.cs",
+              "RelativeDocumentMoniker": "Modelos\\Response\\ResLogin.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Modelos\\Response\\ResLogin.cs",
+              "RelativeToolTip": "Modelos\\Response\\ResLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:24:58.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReqConsultaFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Modelos\\Request\\ReqConsultaFactura.cs",
+              "RelativeDocumentMoniker": "Modelos\\Request\\ReqConsultaFactura.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Modelos\\Request\\ReqConsultaFactura.cs",
+              "RelativeToolTip": "Modelos\\Request\\ReqConsultaFactura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:31:40.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Modelos\\Entidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Modelos\\Entidades\\Categoria.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:29:04.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProyectoMovilController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ApiRestMovil\\Controllers\\ProyectoMovilController.cs",
+              "RelativeDocumentMoniker": "..\\ApiRestMovil\\Controllers\\ProyectoMovilController.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ApiRestMovil\\Controllers\\ProyectoMovilController.cs",
+              "RelativeToolTip": "..\\ApiRestMovil\\Controllers\\ProyectoMovilController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAwIcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T17:05:39.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConexionLINQ.dbml",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\AccesoDatos\\ConexionLINQ.dbml",
+              "RelativeDocumentMoniker": "AccesoDatos\\ConexionLINQ.dbml",
+              "ToolTip": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\AccesoDatos\\ConexionLINQ.dbml",
+              "RelativeToolTip": "AccesoDatos\\ConexionLINQ.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-10-30T20:18:13.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogProyecto.cs",
+              "DocumentMoniker": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Logica\\LogProyecto.cs",
+              "RelativeDocumentMoniker": "Logica\\LogProyecto.cs",
+              "ToolTip": "C:\\Users\\Daniel\\Downloads\\daniel\\daniel\\ProyectoMovilBackend\\Logica\\LogProyecto.cs",
+              "RelativeToolTip": "Logica\\LogProyecto.cs",
+              "ViewState": "AgIAAPkDAAAAAAAAAAAlwBwEAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T19:50:31.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
